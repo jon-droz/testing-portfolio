@@ -1,1 +1,12 @@
-bug report template
+bug report
+ID:
+title:
+description:
+steps:
+environment:
+OS:
+browser:
+severity:
+priority:
+
+
